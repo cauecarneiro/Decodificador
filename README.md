@@ -7,4 +7,4 @@ Decodificação: converte valores numéricos ASCII em seus respectivos caractere
 Modularidade: estrutura do código modular, permitindo fácil reutilização e extensão.
 Interface Simples: código limpo e comentado para facilitar a compreensão.
 
-Trabalho da faculdade da matéria de Algoritimos e Progamação Estruturada do Prof Jefersson
+Existe um desafio e análise do tamanho suportado por tipos por ser um trabalho da faculdade da matéria de Algoritimos e Progamação Estruturada
